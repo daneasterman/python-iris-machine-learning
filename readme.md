@@ -98,7 +98,7 @@ plt.show()
 
 After running the command above, the histogram image should automatically open and display as a png image file:
 
-![https://i.imgur.com/Mb9x5O7.png](https://i.imgur.com/Mb9x5O7.png =600x)
+![Histogram](https://i.imgur.com/Mb9x5O7.png)
 
 ### Machine Learning with Scikit-Learn
 
