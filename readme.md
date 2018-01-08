@@ -1,4 +1,4 @@
-## Basic Introduction to Machine Learning and Data Science Analysis Techniques with Python
+## Introduction to Machine Learning and Data Science Analysis Techniques with Python
 
 In this article, we will be looking at the classic Iris flower dataset, which is widely considered to be the fundamental "hello world" example to demonstrate data science and machine learning concepts with the Python programming language. 
 
@@ -185,7 +185,7 @@ NB: 0.975000 (0.053359)
 SVM: 0.991667 (0.025000)
 ```
 
-Here we can see that with a score of `0.983333`, the K-Nearest Neighbors (KNN) algorithm has performed the best and most accurately on this Iris flower
+Here we can see that with a score of `0.983333`, the K-Nearest Neighbors (KNN) algorithm has performed the best and most accurately on our Iris flower dataset.
 
 *__Making an actual prediction with Machine Learning:__*
 
