@@ -4,7 +4,33 @@ In this article, we will be looking at the classic Iris flower dataset, which is
 
 This readme provides an explanation behind the main `iris-final.py` file in this repository which incorporates the main machine learning code snippets outlined below.
 
-However, I would recommend working through all the steps to gain a better understanding of the subject.
+However, I would recommend working through all the following steps to gain a better understanding of the subject.
+
+The main structure of this tutorial looks at three main Python libraries to get started with basic Data Science and Machine Learning:
+
+1. 	Pandas
+2. Matplotlib
+3. Scikit-Learn
+
+*__Installation / setup basics__*
+
+This tutorial assumes you are working on a Mac with Python 2.7 pre-installed. Check your python version in the terminal with: `python --version`
+
+If you are starting from scratch the easiest way to install the libraries is to first install Pip. Pip is basically an installer tool which makes it easier to install Python libraries. ( N.B: this is also in the terminal, get used to this, the terminal is your home now :-) )
+
+```
+sudo easy_install pip
+```
+
+Then in Mac you want to run this command which installs Pandas, Matplotlib and SciKit-Learn all in one go ( N.B: you need numpy and scipy as dependencies for sklearn):
+
+```
+python -m pip install --user numpy scipy pandas matplotlib sklearn 
+```
+
+For more info or fancier installation solutions with Linux, a Mac package manager or Windows, please refer to this excellent resource:
+[https://www.scipy.org/install.html]()
+
 
 ### The "Pandas" Python Library
 
@@ -108,7 +134,7 @@ Scikit-Learn is a very well-established open source machine learning library (10
 
 In other words, we will train the algorithm to "learn" or categorise the correct flower species based on the the petal and sepal measurements of a particular data entry.
 
-*__Assessing which Machine learning algorithm to use__*
+*__Assessing which Machine learning algorithm to use:__*
 
 Due to the added complexity, at this point I would recommend moving away from working in Python interepreter and putting your code in a simple code editor such as Sublime and then running the individual file instead of each line of code.
 
