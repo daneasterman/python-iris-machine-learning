@@ -57,7 +57,6 @@ The result should be to "print" out the following in your terminal:
 19           5.1          3.8           1.5          0.3  Iris-setosa
 ```
 
-
 Another simple but very useful method from the pandas library is `describe`. This automatically provides us with some basic statistical information such as the mean, standard deviation (std), minimum/maximum ranges and some percentiles:
 
 ```
@@ -99,7 +98,7 @@ plt.show()
 
 After running the command above, the histogram image should automatically open and display as a png image file:
 
-![](https://i.imgur.com/Mb9x5O7.png =600x)
+![https://i.imgur.com/Mb9x5O7.png](https://i.imgur.com/Mb9x5O7.png =600x)
 
 ### Machine Learning with Scikit-Learn
 
@@ -109,7 +108,7 @@ Scikit-Learn is a very well-established open source machine learning library (10
 
 In other words, we will train the algorithm to "learn" or categorise the correct flower species based on the the petal and sepal measurements of a particular data entry.
 
-### Assessing which Machine learning algorithm to use
+*__Assessing which Machine learning algorithm to use__*
 
 Due to the added complexity, at this point I would recommend moving away from working in Python interepreter and putting your code in a simple code editor such as Sublime and then running the individual file instead of each line of code.
 
@@ -152,7 +151,7 @@ seed = 7
 scoring = 'accuracy'
 ```
 
-Now we "append" 6 different algorithms to an empty models array, iterate and compare the accuracy of each one in turn:
+Now we "append" 6 different algorithms to an empty models array, and use a for loop to "loop/iterate over" and compare the accuracy of each one in turn:
 
 ```
 # Check accuracy of algorithms
@@ -186,9 +185,9 @@ NB: 0.975000 (0.053359)
 SVM: 0.991667 (0.025000)
 ```
 
-Here we can see that with a score of `0.983333`, the K-Nearest Neighbors (KNN) algorithm has performed the best and most accurately on this Iris flower dataset.
+Here we can see that with a score of `0.983333`, the K-Nearest Neighbors (KNN) algorithm has performed the best and most accurately on this Iris flower
 
-### Making an actual prediction with Machine Learning:
+*__Making an actual prediction with Machine Learning:__*
 
 Now that we know that KNN is the most accurate algorithm, we can run it exclusively on the data with the code below:
 
