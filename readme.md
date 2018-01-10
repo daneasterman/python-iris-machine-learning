@@ -29,7 +29,7 @@ python -m pip install --user numpy scipy pandas matplotlib sklearn
 ```
 
 For more info or fancier installation solutions with Linux, a Mac package manager or Windows, please refer to this excellent resource:
-[https://www.scipy.org/install.html]()
+[https://www.scipy.org/install.html](https://www.scipy.org/install.html)
 
 
 ### The Pandas Library :panda_face:
@@ -241,15 +241,15 @@ Iris-versicolor       0.85      0.92      0.88        12
 
 The following resources were invaluable to me in preparing this article on Python and Machine Learning:
 
-[https://medium.com/botsupply/machine-learning-the-conjuring-code-episode-1-c8145d9d67e4]()
+[https://medium.com/botsupply/machine-learning-the-conjuring-code-episode-1-c8145d9d67e4](https://medium.com/botsupply/machine-learning-the-conjuring-code-episode-1-c8145d9d67e4)
 
-[http://blog.fastforwardlabs.com/2016/02/24/hello-world-in-keras-or-scikit-learn-versus.html]()
+[http://blog.fastforwardlabs.com/2016/02/24/hello-world-in-keras-or-scikit-learn-versus.html](http://blog.fastforwardlabs.com/2016/02/24/hello-world-in-keras-or-scikit-learn-versus.html)
 
-[https://machinelearningmastery.com/machine-learning-in-python-step-by-step/]()
+[https://machinelearningmastery.com/machine-learning-in-python-step-by-step/](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
-[https://www.scipy.org/install.html]()
+[https://www.scipy.org/install.html](https://www.scipy.org/install.html)
 
-[http://www.codeastar.com/beginner-data-science-tutorial/]()
+[http://www.codeastar.com/beginner-data-science-tutorial/](http://www.codeastar.com/beginner-data-science-tutorial/)
 
 
 
