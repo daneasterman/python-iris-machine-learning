@@ -16,7 +16,7 @@ The main structure of this tutorial looks at three main Python libraries to get 
 
 This tutorial assumes you are working on a Mac with Python 2.7 pre-installed. Check your python version in the terminal with: `python --version`
 
-If you are starting from scratch the easiest way to install the libraries is to first install Pip. Pip is basically an installer tool which makes it easier to install Python libraries. ( N.B: this is also in the terminal, get used to this, the terminal is your home now :-) )
+If you are starting from scratch the easiest way to install the libraries is to first install Pip. Pip is basically an installer tool which makes it easier to install Python libraries. ( N.B: this is also in the terminal, get used to this, the terminal is your home now :house: )
 
 ```
 sudo easy_install pip
