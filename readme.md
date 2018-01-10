@@ -32,9 +32,9 @@ For more info or fancier installation solutions with Linux, a Mac package manage
 [https://www.scipy.org/install.html]()
 
 
-### The Pandas Library
+### The Pandas Library :panda_face:
 
-*__What Does Pandas Do?__* :panda_face:
+*__What Does Pandas Do?__* 
 
 Pandas offers a number of easy-to-use methods or operations to manually view, analyse and understand data in the mould of a traditional data scientist. This is an important step before applying any automated machine learning techniques.
 
